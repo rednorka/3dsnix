@@ -18,8 +18,9 @@ This work-in-progress LovePotion app allows you to use a 3DS to control your Swi
 ## TO-DO
 In an order of somewhat importance
 - Sticks and ZL/ZR support
+- Bundle releases as a separate .3dsx file
 - Pretty UI
-- Error handling
 - Quick reconnect
+- Error handling
 - Spoof 3DS as another controller (Sideways Joy-Con, for example)
 - Maybe a Nintendo DS version? Or at least rewrite this in C or something, who knows.
