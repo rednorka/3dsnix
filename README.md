@@ -15,7 +15,7 @@ This work-in-progress LovePotion app allows you to use a 3DS to control your Swi
 - 3DS shows up as a Pro Controller by default
 - D-Pad, ABXY and L/R buttons are supported
 - Minimal interface to check the stick state and last button change
-## TO-DO
+## What could've been
 In an order of somewhat importance
 - Sticks and ZL/ZR support
 - Bundle releases as a separate .3dsx file
